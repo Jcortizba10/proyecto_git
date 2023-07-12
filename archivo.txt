@@ -1,4 +1,5 @@
 #proyecto
-segundo commit
-tercer commit
-clase de git el dia martes de julio del 2023
+1.segundo commit
+2.tercer commit
+3.clase de git el dia martes de julio del 2023
+4. cuarto commit
